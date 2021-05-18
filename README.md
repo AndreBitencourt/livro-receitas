@@ -1,4 +1,4 @@
-#LIVRO DE RECEITAS#
+#LIVRO DE RECEITAS :man_cook:
 
 Olá! Bem vindo a meu livro de receitas
 
